@@ -1,0 +1,9 @@
+## Interface: 110100
+## Title: PinDrop
+## Notes: Broadcasts target info (name, type, HP%, coords, and a clickable map pin) to a chat channel of your choice.
+## Author: YourNameHere
+## Version: 1.0.0
+## DefaultState: Enabled
+## SavedVariables:
+
+PinDrop.lua
