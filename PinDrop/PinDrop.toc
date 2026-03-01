@@ -1,4 +1,4 @@
-## Interface: 110100
+## Interface: 120001
 ## Title: PinDrop
 ## Notes: Broadcasts target info (name, type, HP%, coords, and a clickable map pin) to a chat channel of your choice.
 ## Author: YourNameHere
