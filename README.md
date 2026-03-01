@@ -84,7 +84,7 @@ You can easily bind this to a macro for one-click use:
 
 ## From the Same Author
 
-- **MountMimic** — [link to your other addon]
+- **MountMimic** — [[GitHub Page](https://github.com/Kraxiloth/MountMimic)]
 
 ---
 
