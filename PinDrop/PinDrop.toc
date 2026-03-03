@@ -1,9 +1,12 @@
 ## Interface: 120001
 ## Title: PinDrop
-## Notes: Broadcasts target info (name, type, HP%, coords, and a clickable map pin) to a chat channel of your choice.
+## Notes: Broadcasts target info (name, type, coords) to a chat channel of your choice.
 ## Author: YourNameHere
 ## Version: 1.0.0
 ## DefaultState: Enabled
-## SavedVariables:
+
+## Libraries
+Libs\HereBeDragons\HereBeDragons-2.0.lua
+Libs\HereBeDragons\HereBeDragons-Pins-2.0.lua
 
 PinDrop.lua
